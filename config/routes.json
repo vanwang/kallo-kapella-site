@@ -1,0 +1,90 @@
+{
+  "routes": [
+    {
+      "key": "guide",
+      "title": "产品",
+      "defaultOpen": true,
+      "keywords": "guide, getting started, start, nextui",
+      "routes": [
+        {
+          "key": "introduction",
+          "title": "产品介绍",
+          "keywords": "introduction, nextui",
+          "path": "/docs/guide/introduction.mdx"
+        },
+        {
+          "key": "price",
+          "title": "价格&权益",
+          "keywords": "价格，报价，服务",
+          "path": "/docs/guide/price.mdx"
+        }
+      ]
+    },
+    {
+      "key": "updates",
+      "title": "更新说明",
+      "defaultOpen": true,
+      "keywords": "",
+      "routes": [
+        {
+          "key": "kapella",
+          "title": "KĀPELLA",
+          "keywords": "introduction, nextui",
+          "path": "/docs/updates/kapella.mdx"
+        },
+        {
+          "key": "kaloud",
+          "title": "KĀLOUD",
+          "keywords": "价格，报价，服务",
+          "path": "/docs/updates/kaloud.mdx"
+        },
+        {
+          "key": "kasmos",
+          "title": "KĀSMOS",
+          "keywords": "价格，报价，服务",
+          "path": "/docs/updates/kasmos.mdx"
+        }
+      ]
+    }
+  ],
+  "mobileRoutes": [
+    {
+      "key": "getting-started",
+      "title": "开始",
+      "defaultOpen": true,
+      "keywords": "getting started, main routes, blog, docs, components, nextui",
+      "routes": [
+        {
+          "key": "index",
+          "title": "首页",
+          "keywords": "documentation, guide, nextui",
+          "path": "/"
+        },
+        {
+          "key": "docs",
+          "title": "产品介绍",
+          "keywords": "documentation, guide, nextui",
+          "path": "/docs/guide/introduction.mdx"
+        },
+        {
+          "key": "blog",
+          "title": "大事记",
+          "keywords": "components, nextui",
+          "path": "/blog"
+        },
+        {
+          "key": "contact",
+          "title": "联系我们",
+          "keywords": "blog, nextui, news, updates",
+          "path": "/contact"
+        },
+        {
+          "key": "roadmap",
+          "title": "客户登录",
+          "keywords": "roadmap, nextui",
+          "path": "#"
+        }
+      ]
+    }
+  ]
+}

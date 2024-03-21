@@ -1,51 +1,52 @@
-import { Link } from "@nextui-org/link";
-import { Snippet } from "@nextui-org/snippet";
-import { Code } from "@nextui-org/code"
-import { button as buttonStyles } from "@nextui-org/theme";
-import { siteConfig } from "@/config/site";
-import { title, subtitle } from "@/components/primitives";
-import { GithubIcon } from "@/components/icons";
+import { Spacer } from "@nextui-org/spacer";
 
-export default function Home() {
-	return (
-		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
-			<div className="inline-block max-w-lg text-center justify-center">
-				<h1 className={title()}>Make&nbsp;</h1>
-				<h1 className={title({ color: "violet" })}>beautiful&nbsp;</h1>
-				<br />
-				<h1 className={title()}>
-					websites regardless of your design experience.
-				</h1>
-				<h2 className={subtitle({ class: "mt-4" })}>
-					Beautiful, fast and modern React UI library.
-				</h2>
-			</div>
+import { Hero } from "@/components/marketing/hero";
+import { FeaturesGrid } from "@/components/marketing/features-grid";
+import { CustomThemes } from "@/components/marketing/custom-themes";
+import { A11yOtb } from "@/components/marketing/a11y-otb";
+import { DarkMode } from "@/components/marketing/dark-mode";
+import { Customization } from "@/components/marketing/customization";
+import { LastButNotLeast } from "@/components/marketing/last-but-not-least";
+import { InstallBanner } from "@/components/marketing/install-banner";
+import { Community } from "@/components/marketing/community";
+import { Support } from "@/components/marketing/support";
+import landingContent from "@/content/landing";
+import { getAllSponsors } from "@/utils/get-all-sponsors";
+import { Sponsors } from "@/components/marketing/sponsors";
 
-			<div className="flex gap-3">
-				<Link
-					isExternal
-					href={siteConfig.links.docs}
-					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow" })}
-				>
-					Documentation
-				</Link>
-				<Link
-					isExternal
-					className={buttonStyles({ variant: "bordered", radius: "full" })}
-					href={siteConfig.links.github}
-				>
-					<GithubIcon size={20} />
-					GitHub
-				</Link>
-			</div>
+async function getData() {
+  try {
+    const sponsors = await getAllSponsors();
 
-			<div className="mt-8">
-				<Snippet hideSymbol hideCopyButton variant="flat">
-					<span>
-						Get started by editing <Code color="primary">app/page.tsx</Code>
-					</span>
-				</Snippet>
-			</div>
-		</section>
-	);
+    return {
+      sponsors,
+    };
+  } catch (error) {
+    console.log('error :>> ', error);
+    // throw new Error("Failed to fetch data");
+  }
+}
+
+export default async function Home() {
+  const data = await getData();
+
+  return (
+    <main className="container mx-auto max-w-7xl px-6 flex-grow">
+      <section className="flex flex-col items-center justify-center">
+        <Hero />
+        <FeaturesGrid features={landingContent.topFeatures} />
+        <Sponsors />
+        <CustomThemes />
+        <A11yOtb />
+        <DarkMode />
+        <Customization />
+        <LastButNotLeast />
+        {/* <Support sponsors={data.sponsors} /> */}
+        {/* <Spacer y={24} /> */}
+        <InstallBanner />
+        <Community />
+        <Spacer y={24} />
+      </section>
+    </main>
+  );
 }
