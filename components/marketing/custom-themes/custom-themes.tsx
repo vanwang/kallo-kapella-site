@@ -138,9 +138,9 @@ const CustomThemesExample = ({
       <div className={slots.imageWrapper()}>
         <Image
           removeWrapper
-          alt="Shoes theme example"
+          alt="KAPELLA"
           className={slots.img()}
-          src="/kallo/3.png"
+          src="https://kalloka.oss-cn-beijing.aliyuncs.com/site/3.png"
         />
       </div>
       <Button

@@ -59,7 +59,7 @@ export const Hero = () => {
             alt="Kapella Pro"
             height={400}
             // src="/images/hero-card.webp"
-            src="/kallo/2.png"
+            src="https://kalloka.oss-cn-beijing.aliyuncs.com/site/2.png"
             width={280}
             className="max-w-fit mb-10"
           />

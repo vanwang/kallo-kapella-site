@@ -41,7 +41,7 @@ export const FloatingComponents: React.FC<{}> = () => {
           alt="kapella"
           height={800}
           // src="/images/hero-card.webp"
-          src="/kallo/2.png"
+          src="https://kalloka.oss-cn-beijing.aliyuncs.com/site/2.png"
           width={450}
           className="absolute -right-[50px] -top-[200px] z-0 max-w-fit"
         />
