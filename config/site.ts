@@ -10,10 +10,10 @@ export const siteConfig = {
 	creator: "@getnextui",
 	openGraph: {
 		type: "website",
-		locale: "en_US",
-		url: "https://nextui.org",
-		siteName: "NextUI",
-		description: "Beautiful, fast and modern React UI Library",
+		locale: "zh",
+		url: "https://kalloka.com",
+		siteName: "KAPELLA",
+		description: "全自动精品咖啡冲煮方案",
 		images: [
 			{
 				url: "https://nextui.org/twitter-cards/nextui.jpeg",
@@ -25,8 +25,5 @@ export const siteConfig = {
 	},
 	links: {
 		docs: "https://nextui-docs-v2.vercel.app",
-		discord: "https://discord.gg/9b6yyZKmH4",
-		sponsor: "https://patreon.com/jrgarciadev",
-		portfolio: "https://jrgarciadev.com",
 	},
 };

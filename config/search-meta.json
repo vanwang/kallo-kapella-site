@@ -1,14 +1,14 @@
 [
   {
     "content": "KĀPELLA PRO 正式发布 🎉",
-    "objectID": "9224fdec-7919-4b38-9e8c-37f6377f5679",
+    "objectID": "bd5a9866-12a2-40b3-9049-591a7ab8c230",
     "type": "lvl1",
     "url": "/blog/kapella-pro-release",
     "hierarchy": { "lvl1": "KĀPELLA PRO 正式发布 🎉" }
   },
   {
     "content": "社区",
-    "objectID": "098010d6-b1cb-495a-9fe3-4b3d87ce3db4",
+    "objectID": "c6e6432a-6382-4cb5-9378-ff70a2f03c04",
     "type": "lvl2",
     "url": "/blog/kapella-pro-release#社区",
     "hierarchy": {
@@ -19,42 +19,42 @@
   },
   {
     "content": "产品介绍",
-    "objectID": "49b4bf5d-fa10-4c64-aadb-fe6bda598560",
+    "objectID": "6203d6b3-c802-40fd-a6de-c05acc5212d5",
     "type": "lvl1",
     "url": "/docs/guide/introduction",
     "hierarchy": { "lvl1": "产品介绍" }
   },
   {
     "content": "KĀPELLA是什么?",
-    "objectID": "e42ef091-c8e8-40e3-94c0-7d8cba2cf595",
+    "objectID": "bdb8fc8d-fe6d-493a-9bb2-f1477aa9f784",
     "type": "lvl2",
     "url": "/docs/guide/introduction#kapella是什么",
     "hierarchy": { "lvl1": "产品介绍", "lvl2": "KĀPELLA是什么?", "lvl3": null }
   },
   {
     "content": "名字的由来",
-    "objectID": "1718dc35-9332-481e-824a-aa9aa1a9fc21",
+    "objectID": "d25659f0-7ed9-443a-88cf-09c3076f81d1",
     "type": "lvl2",
     "url": "/docs/guide/introduction#名字的由来",
     "hierarchy": { "lvl1": "产品介绍", "lvl2": "名字的由来", "lvl3": null }
   },
   {
     "content": "优势对比",
-    "objectID": "28695e1d-cf63-41f5-87c7-f51fd60c90d8",
+    "objectID": "fe89add6-2d8e-44ee-81ae-2374408c5ddb",
     "type": "lvl2",
     "url": "/docs/guide/introduction#优势对比",
     "hierarchy": { "lvl1": "产品介绍", "lvl2": "优势对比", "lvl3": null }
   },
   {
     "content": "方案构成",
-    "objectID": "e4e8d9c7-9c8d-43ce-954f-f32ae0a9c051",
+    "objectID": "3a5fa513-9a27-4628-875c-922f2a76c66b",
     "type": "lvl2",
     "url": "/docs/guide/introduction#方案构成",
     "hierarchy": { "lvl1": "产品介绍", "lvl2": "方案构成", "lvl3": null }
   },
   {
     "content": "KĀPELLA全自动精品咖啡机",
-    "objectID": "1bfeaa03-2ead-4b11-9e29-de3a11b1db34",
+    "objectID": "bd5a4129-abc9-40a2-90bf-06faaee30924",
     "type": "lvl2",
     "url": "/docs/guide/introduction#kapella全自动精品咖啡机",
     "hierarchy": {
@@ -65,7 +65,7 @@
   },
   {
     "content": "KĀCLOUD云端配方管理系统",
-    "objectID": "a14d5333-2ae8-4bf2-80e4-45f15caa1679",
+    "objectID": "6229bb77-e0ee-43fc-9f0a-2626e9b92738",
     "type": "lvl2",
     "url": "/docs/guide/introduction#kacloud云端配方管理系统",
     "hierarchy": {
@@ -76,7 +76,7 @@
   },
   {
     "content": "KĀSMOS无线操作系统",
-    "objectID": "e1b17376-219e-468b-bff8-10529e80479c",
+    "objectID": "951032a9-1705-4b19-a50e-95246b78c7d0",
     "type": "lvl2",
     "url": "/docs/guide/introduction#kasmos无线操作系统",
     "hierarchy": {
@@ -87,14 +87,14 @@
   },
   {
     "content": "合作伙伴",
-    "objectID": "d104870b-7024-4032-9ec6-41ac8634704f",
+    "objectID": "10ab2c04-6fe7-4692-9936-a0d2894330d6",
     "type": "lvl2",
     "url": "/docs/guide/introduction#合作伙伴",
     "hierarchy": { "lvl1": "产品介绍", "lvl2": "合作伙伴", "lvl3": null }
   },
   {
     "content": "富士电机株式会社",
-    "objectID": "cb515945-bf71-4f44-8138-0a06e439bba0",
+    "objectID": "5d0806bb-2b18-4291-9b77-ad443695637c",
     "type": "lvl3",
     "url": "/docs/guide/introduction#富士电机株式会社",
     "hierarchy": {
@@ -105,7 +105,7 @@
   },
   {
     "content": "富士冰山",
-    "objectID": "949d3266-f0cf-418a-b207-6359c017694b",
+    "objectID": "49f40a4d-6921-491e-b902-8f4ce3b06448",
     "type": "lvl3",
     "url": "/docs/guide/introduction#富士冰山",
     "hierarchy": {
@@ -116,49 +116,49 @@
   },
   {
     "content": "社区",
-    "objectID": "08678a78-fe43-418f-814b-8d2c250550ff",
+    "objectID": "67384553-c357-4a53-a1b3-1593571f3314",
     "type": "lvl2",
     "url": "/docs/guide/introduction#社区",
     "hierarchy": { "lvl1": "产品介绍", "lvl2": "社区", "lvl3": null }
   },
   {
     "content": "价格&权益",
-    "objectID": "9b9ee712-10d9-47e1-b612-c8c27c38966d",
+    "objectID": "6fcc3630-c8d4-408e-951e-9b5e4f827b4b",
     "type": "lvl1",
     "url": "/docs/guide/price",
     "hierarchy": { "lvl1": "价格&权益" }
   },
   {
     "content": "权益",
-    "objectID": "d76398f6-3e80-41ce-8831-53d21eb60062",
+    "objectID": "d6e834a8-2be2-4933-8a55-407332c908af",
     "type": "lvl2",
     "url": "/docs/guide/price#权益",
     "hierarchy": { "lvl1": "价格&权益", "lvl2": "权益", "lvl3": null }
   },
   {
     "content": "价格",
-    "objectID": "6116ef65-f4d1-420b-a838-247100da710b",
+    "objectID": "723c8c38-5baa-4dc4-adbb-0a7392008237",
     "type": "lvl2",
     "url": "/docs/guide/price#价格",
     "hierarchy": { "lvl1": "价格&权益", "lvl2": "价格", "lvl3": null }
   },
   {
     "content": "社区",
-    "objectID": "9f221792-e573-4b89-a619-f556b966488e",
+    "objectID": "e80a2089-bf58-4895-b48e-028dd8f095a1",
     "type": "lvl2",
     "url": "/docs/guide/price#社区",
     "hierarchy": { "lvl1": "价格&权益", "lvl2": "社区", "lvl3": null }
   },
   {
     "content": "KĀCLOUD更新说明",
-    "objectID": "7b9c15af-d9b8-419a-a1c6-10a0c6d301e5",
+    "objectID": "f466ebfa-a24f-4a24-afad-fab5a90680d2",
     "type": "lvl1",
     "url": "/docs/updates/kaloud",
     "hierarchy": { "lvl1": "KĀCLOUD更新说明" }
   },
   {
     "content": "Version 2.1.2",
-    "objectID": "4973b170-4491-4867-b9a3-04daa87b7ea3",
+    "objectID": "921e0ce6-a2de-45fc-bccc-58574038798b",
     "type": "lvl2",
     "url": "/docs/updates/kaloud#version-212",
     "hierarchy": {
@@ -169,18 +169,18 @@
   },
   {
     "content": "Version 2.0.0",
-    "objectID": "5b297412-0442-4a51-968c-2c69a3477369",
-    "type": "lvl3",
+    "objectID": "0f54ec5b-93ea-4daa-8ac6-0897d760ee44",
+    "type": "lvl2",
     "url": "/docs/updates/kaloud#version-200",
     "hierarchy": {
       "lvl1": "KĀCLOUD更新说明",
-      "lvl2": "Version 2.1.2",
-      "lvl3": "Version 2.0.0"
+      "lvl2": "Version 2.0.0",
+      "lvl3": null
     }
   },
   {
     "content": "Version 1.6.2",
-    "objectID": "848135aa-5ffc-400c-88aa-e1be6802db9f",
+    "objectID": "a8f92187-9d4c-453e-a6cc-e63945293031",
     "type": "lvl2",
     "url": "/docs/updates/kaloud#version-162",
     "hierarchy": {
@@ -191,7 +191,7 @@
   },
   {
     "content": "Version 1.4.8",
-    "objectID": "2e689fb3-17e5-46ee-8ce7-a74d98e2bd1d",
+    "objectID": "a424442c-907d-4ede-8b0e-0b72fd9e42c5",
     "type": "lvl2",
     "url": "/docs/updates/kaloud#version-148",
     "hierarchy": {
@@ -202,29 +202,29 @@
   },
   {
     "content": "Version 1.4.5",
-    "objectID": "8fb9e97e-8008-4f77-ab84-31f116dfa7dd",
-    "type": "lvl3",
+    "objectID": "f0eb4e01-4553-4ee1-aff0-d48cb8630498",
+    "type": "lvl2",
     "url": "/docs/updates/kaloud#version-145",
     "hierarchy": {
       "lvl1": "KĀCLOUD更新说明",
-      "lvl2": "Version 1.4.8",
-      "lvl3": "Version 1.4.5"
+      "lvl2": "Version 1.4.5",
+      "lvl3": null
     }
   },
   {
     "content": "Version 1.4.1",
-    "objectID": "6315fea1-badd-44f3-a9f4-9a5f7016ba7a",
-    "type": "lvl3",
+    "objectID": "24ba08fb-d078-4716-a276-19766d93bdf9",
+    "type": "lvl2",
     "url": "/docs/updates/kaloud#version-141",
     "hierarchy": {
       "lvl1": "KĀCLOUD更新说明",
-      "lvl2": "Version 1.4.5",
-      "lvl3": "Version 1.4.1"
+      "lvl2": "Version 1.4.1",
+      "lvl3": null
     }
   },
   {
     "content": "Version 1.3.2",
-    "objectID": "108b2c7d-78c4-42e2-ae5f-d155c8df3ef8",
+    "objectID": "7417dbb8-a23e-4dbb-8686-1b2fac347bcb",
     "type": "lvl2",
     "url": "/docs/updates/kaloud#version-132",
     "hierarchy": {
@@ -235,18 +235,18 @@
   },
   {
     "content": "Version 1.3.0",
-    "objectID": "086cd3e5-2e57-4bed-8038-b682b96a504e",
-    "type": "lvl3",
+    "objectID": "51b12ea8-edc3-43c7-951d-2beb02eec0d7",
+    "type": "lvl2",
     "url": "/docs/updates/kaloud#version-130",
     "hierarchy": {
       "lvl1": "KĀCLOUD更新说明",
-      "lvl2": "Version 1.3.2",
-      "lvl3": "Version 1.3.0"
+      "lvl2": "Version 1.3.0",
+      "lvl3": null
     }
   },
   {
     "content": "Version 1.2.0",
-    "objectID": "b95fc046-3dbe-4fb2-86f2-2fa5bd64b6c0",
+    "objectID": "59cb535e-0da9-4807-8637-9fcb6857a426",
     "type": "lvl2",
     "url": "/docs/updates/kaloud#version-120",
     "hierarchy": {
@@ -257,7 +257,7 @@
   },
   {
     "content": "Version 1.1.6",
-    "objectID": "710a55f4-9e7f-4f1d-aa05-d282775625e7",
+    "objectID": "6c07b357-0461-4001-88ea-61d8787df708",
     "type": "lvl2",
     "url": "/docs/updates/kaloud#version-116",
     "hierarchy": {
@@ -268,54 +268,109 @@
   },
   {
     "content": "Version 1.1.0",
-    "objectID": "e3c06e0e-268a-44ff-9110-d51b3cb95da1",
-    "type": "lvl3",
+    "objectID": "4547c238-857b-4d6e-96e4-f27d7dd3b54d",
+    "type": "lvl2",
     "url": "/docs/updates/kaloud#version-110",
     "hierarchy": {
       "lvl1": "KĀCLOUD更新说明",
-      "lvl2": "Version 1.1.6",
-      "lvl3": "Version 1.1.0"
+      "lvl2": "Version 1.1.0",
+      "lvl3": null
     }
   },
   {
     "content": "Version 1.0.0",
-    "objectID": "40ac59bd-1102-4002-a0e5-32e7aa132ee5",
-    "type": "lvl3",
+    "objectID": "d3becf1e-0937-4f3c-b66f-617b7b5fcd2b",
+    "type": "lvl2",
     "url": "/docs/updates/kaloud#version-100",
     "hierarchy": {
       "lvl1": "KĀCLOUD更新说明",
-      "lvl2": "Version 1.1.0",
-      "lvl3": "Version 1.0.0"
+      "lvl2": "Version 1.0.0",
+      "lvl3": null
     }
   },
   {
     "content": "KĀPELLA更新说明",
-    "objectID": "c72c9a84-d7a2-4303-b875-18107addc8f1",
+    "objectID": "23e48ec9-c92d-465f-b6f1-d3680ca82747",
     "type": "lvl1",
     "url": "/docs/updates/kapella",
     "hierarchy": { "lvl1": "KĀPELLA更新说明" }
   },
   {
-    "content": "Version 1.5.0",
-    "objectID": "7fc20929-89b6-4a44-8e54-eb008d1e4ae4",
+    "content": "Version 2.3",
+    "objectID": "84b97dfb-2935-49a3-98ad-9854746a5442",
     "type": "lvl2",
-    "url": "/docs/updates/kapella#version-150",
+    "url": "/docs/updates/kapella#version-23",
     "hierarchy": {
       "lvl1": "KĀPELLA更新说明",
-      "lvl2": "Version 1.5.0",
+      "lvl2": "Version 2.3",
+      "lvl3": null
+    }
+  },
+  {
+    "content": "Version 2.2",
+    "objectID": "5d7b8b49-9a24-4d58-87b5-b546ecb339b0",
+    "type": "lvl2",
+    "url": "/docs/updates/kapella#version-22",
+    "hierarchy": {
+      "lvl1": "KĀPELLA更新说明",
+      "lvl2": "Version 2.2",
+      "lvl3": null
+    }
+  },
+  {
+    "content": "Version 2.1",
+    "objectID": "13e387e1-2861-4c81-872f-52d161b82642",
+    "type": "lvl2",
+    "url": "/docs/updates/kapella#version-21",
+    "hierarchy": {
+      "lvl1": "KĀPELLA更新说明",
+      "lvl2": "Version 2.1",
+      "lvl3": null
+    }
+  },
+  {
+    "content": "Version 2.0",
+    "objectID": "0726e37a-a4e4-4fb5-91dd-824e2a165dbc",
+    "type": "lvl2",
+    "url": "/docs/updates/kapella#version-20",
+    "hierarchy": {
+      "lvl1": "KĀPELLA更新说明",
+      "lvl2": "Version 2.0",
+      "lvl3": null
+    }
+  },
+  {
+    "content": "Version 1.2",
+    "objectID": "b525760c-d04a-4bb6-8325-a758b2cbf5e6",
+    "type": "lvl2",
+    "url": "/docs/updates/kapella#version-12",
+    "hierarchy": {
+      "lvl1": "KĀPELLA更新说明",
+      "lvl2": "Version 1.2",
+      "lvl3": null
+    }
+  },
+  {
+    "content": "Version 1.0",
+    "objectID": "6b90ffcf-f199-422c-9392-70af2b6d6d9a",
+    "type": "lvl2",
+    "url": "/docs/updates/kapella#version-10",
+    "hierarchy": {
+      "lvl1": "KĀPELLA更新说明",
+      "lvl2": "Version 1.0",
       "lvl3": null
     }
   },
   {
     "content": "KĀSMOS更新说明",
-    "objectID": "77c80bfc-c207-475c-a256-93a58987f517",
+    "objectID": "880ffb75-2ce2-4da1-8171-0f56f33fb0cd",
     "type": "lvl1",
     "url": "/docs/updates/kasmos",
     "hierarchy": { "lvl1": "KĀSMOS更新说明" }
   },
   {
     "content": "Version 2.3.8",
-    "objectID": "d64dde6d-efa7-4492-9095-19f0478cb6fa",
+    "objectID": "c664d9b0-93c9-41fc-8d30-2fbffe804754",
     "type": "lvl2",
     "url": "/docs/updates/kasmos#version-238",
     "hierarchy": {
@@ -326,18 +381,18 @@
   },
   {
     "content": "Version 2.3.1",
-    "objectID": "d336bb7a-8d81-428d-99c0-800f5001f75b",
-    "type": "lvl3",
+    "objectID": "9d1504a0-d5d2-416b-a433-e4ed4987e6a5",
+    "type": "lvl2",
     "url": "/docs/updates/kasmos#version-231",
     "hierarchy": {
       "lvl1": "KĀSMOS更新说明",
-      "lvl2": "Version 2.3.8",
-      "lvl3": "Version 2.3.1"
+      "lvl2": "Version 2.3.1",
+      "lvl3": null
     }
   },
   {
     "content": "Version 2.2.3",
-    "objectID": "b19404e6-4be7-4c23-87fc-436602c4cb07",
+    "objectID": "5eae66e7-8dbe-4dfd-8224-033c6de3d5fe",
     "type": "lvl2",
     "url": "/docs/updates/kasmos#version-223",
     "hierarchy": {
@@ -348,7 +403,7 @@
   },
   {
     "content": "Version 2.1.0",
-    "objectID": "270691ff-6bb7-4e70-b32e-b035e8f906e5",
+    "objectID": "529d2662-c9cd-408b-ac6b-58d31d81a64e",
     "type": "lvl2",
     "url": "/docs/updates/kasmos#version-210",
     "hierarchy": {
@@ -359,7 +414,7 @@
   },
   {
     "content": "Version 2.0.0",
-    "objectID": "c5775417-89e1-49ae-82a1-c98361a10728",
+    "objectID": "58f38d24-8530-434d-8024-1799ea65d14b",
     "type": "lvl2",
     "url": "/docs/updates/kasmos#version-200",
     "hierarchy": {
@@ -370,7 +425,7 @@
   },
   {
     "content": "Version 1.2.5",
-    "objectID": "200ab656-b100-451e-b76a-ca957e4faab3",
+    "objectID": "5e89eacd-39ce-4ee6-8c85-f0bab1578015",
     "type": "lvl2",
     "url": "/docs/updates/kasmos#version-125",
     "hierarchy": {
@@ -381,7 +436,7 @@
   },
   {
     "content": "Version 1.1.1",
-    "objectID": "714140df-0b5b-4b01-835e-f89cf3100aec",
+    "objectID": "0298cde4-4a83-470b-9edf-4c907e9a9252",
     "type": "lvl2",
     "url": "/docs/updates/kasmos#version-111",
     "hierarchy": {
@@ -392,24 +447,24 @@
   },
   {
     "content": "Version 1.1.0",
-    "objectID": "02d33a68-7daa-497c-a96e-208f26d519f4",
-    "type": "lvl3",
+    "objectID": "6f2e6520-b57b-49f0-a65b-b71371eda878",
+    "type": "lvl2",
     "url": "/docs/updates/kasmos#version-110",
     "hierarchy": {
       "lvl1": "KĀSMOS更新说明",
-      "lvl2": "Version 1.1.1",
-      "lvl3": "Version 1.1.0"
+      "lvl2": "Version 1.1.0",
+      "lvl3": null
     }
   },
   {
     "content": "Version 1.0.0",
-    "objectID": "20a4798e-89e2-4381-9c04-10a9bcf1a8aa",
-    "type": "lvl3",
+    "objectID": "189c241d-5145-41a7-b38d-92342065231f",
+    "type": "lvl2",
     "url": "/docs/updates/kasmos#version-100",
     "hierarchy": {
       "lvl1": "KĀSMOS更新说明",
-      "lvl2": "Version 1.1.0",
-      "lvl3": "Version 1.0.0"
+      "lvl2": "Version 1.0.0",
+      "lvl3": null
     }
   }
 ]

@@ -21,17 +21,6 @@ export const metadata: Metadata = {
   description: siteConfig.description,
   keywords: [
     "KAPELLA",
-    "Next.js",
-    "Tailwind CSS",
-    "NextUI",
-    "React Aria",
-    "Server Components",
-    "React Components",
-    "UI Components",
-    "UI Kit",
-    "UI Library",
-    "UI Framework",
-    "UI Design System",
   ],
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
